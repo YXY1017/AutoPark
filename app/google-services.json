@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "961081358966",
+    "firebase_url": "https://fit5046-autopark-default-rtdb.firebaseio.com",
+    "project_id": "fit5046-autopark",
+    "storage_bucket": "fit5046-autopark.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961081358966:android:434bb36eba1fcd28d4fd57",
+        "android_client_info": {
+          "package_name": "com.example.autopark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961081358966-th276n49v55tp0jn5a5q51538e3u784f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.autopark",
+            "certificate_hash": "c9961bf11ea0a039e0373f16435fcc832b9e30ca"
+          }
+        },
+        {
+          "client_id": "961081358966-s8ae6a52r6rgotc1adfl6ioeaugjm8lo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO5ikCOjfBa-JvRfrz13NF3Btr45VZ8t4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961081358966-s8ae6a52r6rgotc1adfl6ioeaugjm8lo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
